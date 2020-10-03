@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Memorize English is a mobile game for Android that aims to combine learning and fun. 
+Memorize English is a mobile game for learning english by portuguese speakers, that aims to combine learning and fun. 
 
 The player must link Portuguese / English synonyms in adverse situations, using memorization strategies.
 
